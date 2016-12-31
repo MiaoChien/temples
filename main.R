@@ -1,7 +1,6 @@
 # http://temple.twgod.com/
 setwd("~/Dropbox/practice/crawler/temples")
 library(httr)
-library(XML)
 library(magrittr)
 library(data.table)
 library(rvest)
